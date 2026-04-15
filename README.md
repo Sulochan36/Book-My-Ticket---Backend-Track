@@ -38,6 +38,7 @@ This project is an extension of the starter code provided in the Chai Aur SQL ha
 ├── db/
 │   └── pool.js
 ├── index.mjs
+├── index.html
 ├── .env
 └── README.md
 ```
